@@ -1,0 +1,30 @@
+/* a{
+    text-decoration: none;
+    color: black;
+    background-color: burlywood;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+div{
+    display: flex;
+    background-color: lightgreen;
+    border: 2px solid black;
+    flex-direction: row;
+    justify-content: space-evenly;
+} */
+ul{
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    /* background-color: aqua; */
+}

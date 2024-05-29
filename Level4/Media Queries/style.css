@@ -1,0 +1,20 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+}
+/* @media (width:600px){
+    div{
+        background-color: greenyellow;
+    }
+} */
+@media(min-width: 600px){
+    div{
+        background-color: blueviolet;
+    }
+}
+@media(min-width: 300px) and (max-width: 500px){
+    div{
+        background-color: black;
+    }
+}

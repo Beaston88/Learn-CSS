@@ -1,0 +1,16 @@
+div{
+    background-color: #0f1111;
+    height:60px ;
+    border: white 2px solid;
+}
+a{
+    width: 25px;
+    margin-right: 200px;
+    text-decoration: none ;
+}
+#amazonWebsite{
+    color: #f08804;
+}
+.wh{
+    color: white;
+}

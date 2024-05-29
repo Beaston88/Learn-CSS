@@ -1,0 +1,24 @@
+div{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#b1{
+    position : sticky;
+    top: 100px;
+}
+#b2{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#b3{
+    position: fixed;
+    top: 20px;
+}
+#b4{
+    position: sticky;
+    
+
+}

@@ -1,0 +1,44 @@
+/* h1{
+    color: red;
+}
+p{
+    color:teal
+}
+button{
+    background-color: chartreuse;
+    color: red;
+    border-color: blanchedalmond;
+}
+label{
+    color:brown;
+}
+body{
+    background-color: rgb(232, 216, 216);
+}
+input[type="button" ]{
+    background-attachment: fixed;
+    background-color: rgb(195, 244, 97);
+    color: black;
+    text-emphasis-color: black;
+
+}
+input[type="email"]{
+    background-color: aqua;
+}
+
+::placeholder{
+    color: black;
+} */
+*{
+    color: aquamarine;
+}
+
+#head1{
+    color: green;
+}
+#head2{
+    color: chocolate;
+}
+.myClass{
+    color: violet;
+}

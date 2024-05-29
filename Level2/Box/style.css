@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    background-color: greenyellow;
+    width : 200px;/*
+    border-width:1px;
+    border-style:solid;
+    border-color: black;*/
+
+    text-align: center; /* Ye box ke center me aa gya pure screen pe nhi*/
+    
+    /* Agar border ke teeno property ko ek saath likhna ho toh sirf border likhenge */
+    border: 2px black solid;
+}
+h1{
+    width : 200px;
+    background-color: burlywood;
+    height : 50px;
+}

@@ -1,0 +1,15 @@
+/* div{ */
+    /* border : black 1.5px solid;
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding-right: 20px;
+    width:100px;
+    text-align: center;
+    margin-bottom: 20px;
+} */
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 10px;
+}
